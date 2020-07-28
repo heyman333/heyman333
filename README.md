@@ -3,7 +3,7 @@
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 
-## HELLO HAPPY CODERER 😗
+## HELLO HAPPY CODERS 😗
 
 
 - 🔭 I’m currently working on [zigbang](https://github.com/zigbang)
