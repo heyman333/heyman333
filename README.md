@@ -6,7 +6,7 @@
 ## HELLO HAPPY CODERS 😗
 
 
-- 🔭 I’m currently working on [zigbang](https://github.com/zigbang)
+- 🔭 I’m currently working on [Wanted](https://github.com/wanteddev)
 - 🌱 I’m currently learning web/app frontend skills
 - 👯 I’m looking to collaborate on creating something fun
 - 🤔 I’m looking for help with web frontend skills
